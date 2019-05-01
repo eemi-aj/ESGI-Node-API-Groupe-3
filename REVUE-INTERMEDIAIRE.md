@@ -1,0 +1,3 @@
+- l'intégralité du code semble avoir été contribué par Ramzy => contributions de l'équipe à vérifier
+- /!\ je ne peux pas exécuter mes tests automatisés (https://github.com/adrienjoly/ava-tests-for-note-keeper) sur votre serveur car ma requête sur "POST /signup" retourne une erreur 404. => merci de corriger votre API en relisant le cahier des charges: https://adrienjoly.com/cours-nodejs/05-proj/
+- PS: pourquoi votre README est le meme que celui du groupe 2 ? 🤔 
